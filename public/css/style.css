@@ -1,0 +1,12 @@
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+.form-control, .btn {
+    height: auto;
+    padding: 8px 12px;
+}
+
+.body {
+    background-color: antiquewhite;
+}
